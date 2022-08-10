@@ -1,1 +1,1 @@
-# This repo is to explain the Practising C programming language.
+# This repo is for Practising C programming language.
