@@ -1,1 +1,1 @@
-# This repo is to explain the Git Branches command lines
+# This repo is to explain the Practising C programming language.
