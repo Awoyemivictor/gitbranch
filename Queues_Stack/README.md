@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <body>
-<h1>OVERVIEW</h1><br>
-<br>
+<h1>OVERVIEW</h1>
 <h3><b>Stack:</b></h3><br>
 <p>In the pushdown stacks only two operations are allowed: push the item into the stack, and pop the item out of the stack. A stack is a limited access data structure - elements can be added and removed from the stack only at the top.<br>
 push adds an item to the top of the stack, pop removes the item from the top. A helpful analogy is to thing of a stack of books; you can remove only the top book, also you can add a new book on the top.</p>
